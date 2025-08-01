@@ -95,9 +95,8 @@ npm install express mongoose cors dotenv bcryptjs jsonwebtoken
 npm install axios react-hook-form zod @hookform/resolvers
 
 📬 Contact
-For any queries, contact [Ashish Singh](www.linkedin.com/in/ashish-singh-5b14642b2)
-
+For any queries, contact
 ## 👤 Connect with Me
 
-- [GitHub](https://github.com/ash172839)
-- [LinkedIn](https://www.linkedin.com/in/ashish-singh-5b14642b2)
+- 🔗 [GitHub Profile](https://github.com/ash172839)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ashish-singh-5b14642b2)
