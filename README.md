@@ -99,5 +99,7 @@ For any queries, contact [Ashish Singh](www.linkedin.com/in/ashish-singh-5b14642
 
 ## 👤 Connect with Me
 
-- GitHub: [https://github.com/ash172839](https://github.com/ash172839)
-- LinkedIn: [www.linkedin.com/in/ashish-singh-5b14642b2](www.linkedin.com/in/ashish-singh-5b14642b2)
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-ash172839-black?style=for-the-badge&logo=github)](https://github.com/ash172839)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish--singh--5b14642b2-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-singh-5b14642b2)
